@@ -1,1 +1,1 @@
-A simple weather app in which weather can be searched by city
+# A simple weather mobile app in which weather information can be searched by city
